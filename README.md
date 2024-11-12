@@ -16,9 +16,9 @@ Each project in this repository is organized as a standalone module, complete wi
 
 | Project Name                   | Description                                                                                          | Tools & Frameworks Used                         |
 |--------------------------------|------------------------------------------------------------------------------------------------------|-------------------------------------------------|
-| [Project 1: Name](link-to-project) | Brief description of the project. | Tools like DVC, MLflow, Docker, etc.           |
-| [Project 2: Name](link-to-project) | Brief description of the project. | Tools like DVC, MLflow, Docker, etc.           |
-| [Project 3: Name](link-to-project) | Brief description of the project. | Tools like Airflow, Prefect, AWS Sagemaker, etc.|
+| [DVC Mflow Dagshub Pipeline](link-to-project) | Brief description of the project. | Tools like DVC, MLflow, Docker, etc.           |
+| [Mlflow with AWS](link-to-project) | Brief description of the project. | Tools like DVC, MLflow, Docker, etc.           |
+<!-- | [Project 3: Name](link-to-project) | Brief description of the project. | Tools like Airflow, Prefect, AWS Sagemaker, etc.| -->
 
 ## 🌐 How to Contribute
 
